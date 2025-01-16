@@ -38,9 +38,9 @@ I aim to continuously expand my technical expertise while contributing to impact
 ---
 
 ### 📫 **Get in Touch**  
-- **Email:** [your.email@example.com](mailto:nitishvit2003@gmail.com)  
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/nitish752/)
-- **Portfolio:** [Your Portfolio Link](https://your-portfolio.com)  
+- **Email:** [Email](mailto:nitishvit2003@gmail.com)  
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/nitish752/)
+- **Portfolio:** [Portfolio Link](https://your-portfolio.com)  
 
 ---
 
